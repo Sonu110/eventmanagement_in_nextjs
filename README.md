@@ -1,0 +1,1 @@
+# eventmanagement_in_nextjs
